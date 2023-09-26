@@ -1,1 +1,1 @@
-# gitbubactions
+# GitHubActions
